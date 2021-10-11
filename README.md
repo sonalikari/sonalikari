@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalikari&show_icons=true&locale=en" alt="sonalikari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalikari&" alt="sonalikari" /></p>
-
+https://activity-graph.herokuapp.com/graph?username=sonalikari
