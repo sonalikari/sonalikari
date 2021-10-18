@@ -10,6 +10,7 @@
 - 💬 Ask me about **My codes**
 
 - ⚡ Fun fact **I think I am not funny**
+<img align="right" alt="sonali" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
