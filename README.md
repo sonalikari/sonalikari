@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am not funny😂**
 
-<img align="right" alt="sonali" width="340" height="350" src="profile-card.gif">
+<img align="right" alt="sonali" width="350" height="380" src="profile-card.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
