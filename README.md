@@ -5,18 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonalikari" alt="sonalikari" /></a> </p>
 
-- 🌱 I’m currently learning *Django and DSA*
+- 🌱 I’m currently learning **Django and DSA**
 
-- 👯 I’m looking to collaborate on *Open Source Projects*
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me anything about *My Codes*
+- 💬 Ask me anything about **My Codes**
 
-- 📫 How to reach me *sonalirai161161@gmail.com*
+- 📫 How to reach me **sonalirai161161@gmail.com**
 
-- ⚡ Fun fact *I think I am not funny😂*
+- ⚡ Fun fact **I think I am not funny😂**
 
-<img align="right" alt="sonali" width="320" height="350" src="profile-card.gif">
-
+<img align="right" alt="sonali" width="330" height="350" src="profile-card.gif">
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sonalikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonalikari" height="30" width="40" /></a>
