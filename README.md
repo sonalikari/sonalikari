@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonalikari" alt="sonalikari" /></a> </p>
 
-- 🌱 I’m currently learning **Django and DSA**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -39,4 +39,3 @@
 
 <a href="https://github.com/sonalikari/github-readme-activity-graph"><img alt="Sonali Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonalikari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-
