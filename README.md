@@ -32,10 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalikari&show_icons=true&locale=en&layout=compact" alt="sonalikari" /></p>
 <br/>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalikari&show_icons=true&locale=en" alt="sonalikari" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalikari&" alt="sonalikari" /></p>
-
 <a href="https://github.com/sonalikari/github-readme-activity-graph"><img alt="Sonali Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonalikari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
