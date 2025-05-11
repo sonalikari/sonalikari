@@ -1,6 +1,6 @@
 ![Logo](https://github.com/sonalikari/sonalikari/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalikari&label=Profile%20views&color=0e75b6&style=flat" alt="sonalikari" /> </p>
 
@@ -15,9 +15,9 @@
 - 📫 How to reach me **sonalirai161161@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny😂**
-
-
-
+<!-- 
+<img align="right" alt="sonali" width="360" height="380" src="profile-card.gif"> 
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sonalikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonalikari" height="30" width="40" /></a>
