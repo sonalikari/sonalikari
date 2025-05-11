@@ -1,3 +1,4 @@
+![Logo](https://github.com/sonalikari/sonalikari/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
 <h3 align="center">Frontend developer from India</h3>
 
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am not funny😂**
 
-<img align="right" alt="sonali" width="360" height="380" src="profile-card.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
